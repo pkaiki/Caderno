@@ -18,3 +18,6 @@ set smartindent
 "remaping
 nmap <leader>w : w<cr>
 nmap <leader>e : Ex<cr>
+
+"Identacao para c++
+set cindent
