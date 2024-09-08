@@ -1,4 +1,5 @@
 set relativenumber
+set number
 colorscheme delek
 syntax on
 set background=dark
